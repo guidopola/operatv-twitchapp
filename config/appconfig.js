@@ -1,0 +1,5 @@
+module.exports = {
+  APP_TWITCH_CLIENT_ID: '""',
+  APP_DEV_PLAYLIST_EXTRACTOR_URL: '""',
+  APP_PROD_PLAYLIST_EXTRACTOR_URL: '""',
+}
